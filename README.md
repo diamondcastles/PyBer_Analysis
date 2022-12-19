@@ -29,17 +29,17 @@ Initial analysis of the different city types show the following:
 ## Summary
 
 Business recommendations:
-    Create a minimum price for fares in Urban cities and create a maximum price threshold in rural areas, so that drivers can't undercut other drivers and overcharge customers, when there are too few drivers, respectively.
+   - Create a minimum price for fares in Urban cities and create a maximum price threshold in rural areas, so that drivers can't undercut other drivers and overcharge customers, when there are too few drivers, respectively.
 
-    Get better data on time per ride in each city type, to better understand how long each trip takes, as this may be a contributing factor to the price difference in both Average Fare per Ride and the resulting Average Fare per Driver. 
+   - Get better data on time per ride in each city type, to better understand how long each trip takes, as this may be a contributing factor to the price difference in both Average Fare per Ride and the resulting Average Fare per Driver. 
 
-    Gain more geographic data in regards to routes drivers take and where the most clustered populations of riders are for each city type. With this information, marketing can be geared toward riders in these areas with promotions to increase ride counts, and drivers can better focus their attention on areas that have more riders.
+   - Gain more geographic data in regards to routes drivers take and where the most clustered populations of riders are for each city type. With this information, marketing can be geared toward riders in these areas with promotions to increase ride counts, and drivers can better focus their attention on areas that have more riders.
 
 
 ## References
--Department of Agriculture : https://www.ers.usda.gov/topics/rural-economy-population/rural-classifications/what-is-rural/#:~:text=According%20to%20this%20system%2C%20rural,with%20fewer%20than%202%2C500%20people.
+- Department of Agriculture : https://www.ers.usda.gov/topics/rural-economy-population/rural-classifications/what-is-rural/#:~:text=According%20to%20this%20system%2C%20rural,with%20fewer%20than%202%2C500%20people.
 
--Groves, R. (2011, August 02). Rural and Suburban America: When One Definition is not Enough. Retrieved from United States Census Bureau: https://www.census.gov/newsroom/blogs/director/2011/08/rural-and-suburban-america-when-one-definition-is-not-enough.html
+- Groves, R. (2011, August 02). Rural and Suburban America: When One Definition is not Enough. Retrieved from United States Census Bureau: https://www.census.gov/newsroom/blogs/director/2011/08/rural-and-suburban-america-when-one-definition-is-not-enough.html
 
--TN Department of Health. (n.d.). Suburban Areas. Retrieved from Tennessee Department of Health: https://www.tn.gov/health/cedep/environmental/healthy-places/healthy-places/land-use/lu/suburban-areas.html#:~:text=Suburban%20areas%20are%20lower%20density,get%20to%20work%2C%20suburbs%20grew.
+- TN Department of Health. (n.d.). Suburban Areas. Retrieved from Tennessee Department of Health: https://www.tn.gov/health/cedep/environmental/healthy-places/healthy-places/land-use/lu/suburban-areas.html#:~:text=Suburban%20areas%20are%20lower%20density,get%20to%20work%2C%20suburbs%20grew.
 
